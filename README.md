@@ -91,6 +91,8 @@ int main()
 
 ## OUTPUT
 ![expt04](https://github.com/KrishnaPrasad148/Linux-IPC-Message-Queues/assets/147332763/17b36fc9-cc5e-441e-8ca1-74505dd1ff50)
+
+
 ![expt04 -2](https://github.com/KrishnaPrasad148/Linux-IPC-Message-Queues/assets/147332763/0d610c5a-c3f2-4e54-8f08-e0ef9630b362)
 
 
